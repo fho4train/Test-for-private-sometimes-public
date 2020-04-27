@@ -1,6 +1,6 @@
 en dit is hem dan
 //modified:
-//fred_train    20200427  missing history
+//20200427 fred_train      missing history
 Verbeterd en met een extra regel
 direct in de master branch
 en deze komt van de merge actie zelf
