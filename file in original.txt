@@ -1,2 +1,4 @@
 en dit is hem dan
 Verbeterd en met een extra regel
+direct in de master branch
+en deze komt van de merge actie zelf
