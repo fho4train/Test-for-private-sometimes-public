@@ -1,0 +1,6 @@
+This file explains the intended structure of the repository.
+This file is intended as overview and general guideline when new purposes and/or applications are added.
+
+The topfolder contains a mininimal set of files to get you on track and subfolders for all other information.
+Subfolder description in alfabetical order:
+
