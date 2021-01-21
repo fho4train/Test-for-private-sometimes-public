@@ -1,1 +1,2 @@
 En dit zit er in deze nieuwe release (dit wordt release 4)
+en dit komt pas tevoorscijn in de master. Het kan niet gewijzigd worden als je in de tag branch zit
