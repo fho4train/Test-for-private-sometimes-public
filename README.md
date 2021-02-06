@@ -1,15 +1,14 @@
-# Test-for-private
-This repo will be deleted after the test
+# ABCD2
 <!--
 /* modified:
-   20200427 fred_train Add history block
+   2021-02-06: fho4abcd Added soem descriptive content
 */
 -->
-Automation of Libraries and Documentation Center's. Acronym in other languages:<br>
-**ABCD**: **A**utomatización de **B**ibliotecas y **C**entros de **D**ocumentación<br>
-**ABCD**: **A**utomation des **B**ibliothèques et **C**entres de **D**ocumentacion<br>
-**ABCD**: **A**utomatização das **B**ibliotecas e dos **C**entros de **D**ocumentação<br>
-**ABCD**: **A**utomatisering van **B**ibliotheken en **C**entra voor **D**ocumentatie<br>
+Automation of Libraries and Documentation Center's. Acronym **ABCD** stands for:<br>
+> **A**utomatización de **B**ibliotecas y **C**entros de **D**ocumentación<br>
+> **ABCD**: **A**utomation des **B**ibliothèques et **C**entres de **D**ocumentacion<br>
+> **ABCD**: **A**utomatização das **B**ibliotecas e dos **C**entros de **D**ocumentação<br>
+> **ABCD**: **A**utomatisering van **B**ibliotheken en **C**entra voor **D**ocumentatie<br>
 
 ABCD was initially developed by [Bireme](http://regional.bvsalud.org/local/Site/bireme/I/homepage.htm) with the support of [VLIR/UOS](https://www.vliruos.be/en/home/1) and based on [UNESCO-supported ISIS-technology](http://www.unesco.org/isis).
 
