@@ -1,14 +1,12 @@
 # ABCD2
 <!--
 /* modified:
-   2021-02-06: fho4abcd Added soem descriptive content
+   2021-02-06: fho4abcd Added some descriptive content
 */
 -->
 [Automation of Libraries and Documentation Center's.](http://abcd.netcat.be/)
 
-ABCD was initially developed by [Bireme](http://regional.bvsalud.org/local/Site/bireme/I/homepage.htm) with the support of [VLIR/UOS](https://www.vliruos.be/en/home/1) and based on [UNESCO-supported ISIS-technology](http://www.unesco.org/isis). 
-
-This repository contains code for [Major version **2**](http://abcd.netcat.be/?q=node/43)
+This repository contains code for [ABCD version **2**](http://abcd.netcat.be/?q=node/43)
 
 Please check also the [ABCD wiki](http://abcdwiki.net). Acronym **ABCD** stands for:
 
