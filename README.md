@@ -4,13 +4,18 @@
    2021-02-06: fho4abcd Added soem descriptive content
 */
 -->
-Automation of Libraries and Documentation Center's. Acronym **ABCD** stands for:<br>
+Automation of Libraries and Documentation Center's. Acronym **ABCD** stands for:
+
 > **A**utomatización de **B**ibliotecas y **C**entros de **D**ocumentación<br>
-> **ABCD**: **A**utomation des **B**ibliothèques et **C**entres de **D**ocumentacion<br>
-> **ABCD**: **A**utomatização das **B**ibliotecas e dos **C**entros de **D**ocumentação<br>
-> **ABCD**: **A**utomatisering van **B**ibliotheken en **C**entra voor **D**ocumentatie<br>
+> **A**utomation des **B**ibliothèques et **C**entres de **D**ocumentacion<br>
+> **A**utomatização das **B**ibliotecas e dos **C**entros de **D**ocumentação<br>
+> **A**utomatisering van **B**ibliotheken en **C**entra voor **D**ocumentatie
 
 ABCD was initially developed by [Bireme](http://regional.bvsalud.org/local/Site/bireme/I/homepage.htm) with the support of [VLIR/UOS](https://www.vliruos.be/en/home/1) and based on [UNESCO-supported ISIS-technology](http://www.unesco.org/isis).
+
+See also
+* [ABCD wiki](http://abcdwiki.net)
+* [ABCD website](http://abcd.netcat.be/)
 
 It is based on [FPDF](http://www.fpdf.org/) and [HTML2FPDF](http://html2fpdf.sourceforge.net/)
 (see [CREDITS](CREDITS.txt)), with a number of enhancements. mPDF was written by Ian Back and is released
