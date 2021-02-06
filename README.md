@@ -8,9 +8,9 @@
 
 ABCD was initially developed by [Bireme](http://regional.bvsalud.org/local/Site/bireme/I/homepage.htm) with the support of [VLIR/UOS](https://www.vliruos.be/en/home/1) and based on [UNESCO-supported ISIS-technology](http://www.unesco.org/isis). 
 
-Ths repository contains code for [major version 2](http://abcd.netcat.be/?q=node/43)
+This repository contains code for [Major version **2**](http://abcd.netcat.be/?q=node/43)
 
-Much information is found in th [ABCD wiki](http://abcdwiki.net). Acronym **ABCD** stands for:
+Please check also the [ABCD wiki](http://abcdwiki.net). Acronym **ABCD** stands for:
 
 > **A**utomatización de **B**ibliotecas y **C**entros de **D**ocumentación<br>
 > **A**utomation des **B**ibliothèques et **C**entres de **D**ocumentacion<br>
